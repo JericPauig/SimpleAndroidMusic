@@ -6,5 +6,7 @@
     <string name="shuffle">Shuffle</string>
     <string name="end_play">End</string>
     <string name="song_list">Song List</string>
+    <string name="sort_by_artist">Sort By Artist</string>
+    <string name="sort_by_title">Sort By Title</string>
 
 </resources>

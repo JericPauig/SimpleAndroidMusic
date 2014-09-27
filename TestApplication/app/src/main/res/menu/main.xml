@@ -9,4 +9,12 @@
         android:title="@string/end_play"
         android:orderInCategory="100"
         android:showAsAction="always" />
+    <item android:id="@+id/sort_by_title"
+        android:title="@string/sort_by_title"
+        android:orderInCategory="100"
+        android:showAsAction="collapseActionView" />
+    <item android:id="@+id/sort_by_artist"
+        android:title="@string/sort_by_artist"
+        android:orderInCategory="100"
+        android:showAsAction="collapseActionView" />
 </menu>
