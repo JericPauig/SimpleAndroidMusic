@@ -5,8 +5,8 @@
         android:title="@string/shuffle"
         android:orderInCategory="100"
         android:showAsAction="always" />
-    <item android:id="@+id/test_settings"
-        android:title="@string/general_settings"
+    <item android:id="@+id/end_play"
+        android:title="@string/end_play"
         android:orderInCategory="100"
         android:showAsAction="always" />
 </menu>
